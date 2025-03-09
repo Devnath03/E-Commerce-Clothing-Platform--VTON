@@ -25,7 +25,7 @@ const About = () => {
       >
         <motion.img
           className='w-full md:max-w-[450px]'
-          src={assets.about_img}
+          src={assets.aboutim}
           alt=""
           initial={{ scale: 0.9 }} // Initial scale for image
           animate={{ scale: 1 }} // Animate to full scale

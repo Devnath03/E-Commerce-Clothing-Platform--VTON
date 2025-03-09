@@ -208,16 +208,10 @@ const Product = () => {
         </div>
         <div className="flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis,
-            unde modi libero dicta perspiciatis quis laborum odit deserunt iusto
-            inventore, expedita quo beatae tempora consequatur natus sit error
-            at. Eligendi.
+            Review the product and share your thoughts with other customers. Explore the product and get to know more about it.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut
-            obcaecati voluptates, incidunt nulla dolorum sapiente sunt nihil
-            optio id veritatis deleniti quibusdam culpa eum corporis recusandae
-            unde? Alias, praesentium sit.
+            Explore the comments to know more about the product. Share your thoughts and experiences with other customers.
           </p>
         </div>
 

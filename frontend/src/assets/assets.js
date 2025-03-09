@@ -79,6 +79,8 @@ import master_logo from './master_logo.png'
 import koko_logo from './koko_logo.png'
 import mintpay_logo from './mintpay_logo.png'
 import hanger_icon from './hanger_icon.png'
+import aboutim from './aboutim.jpeg'
+
 
 export const assets = {
     logo,
@@ -103,7 +105,9 @@ export const assets = {
     master_logo,
     koko_logo,
     mintpay_logo,
-    hanger_icon
+    hanger_icon,
+    aboutim
+   
 }
 
 export const products = [
