@@ -37,23 +37,23 @@ const About = () => {
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.4 }} // Delay for staggered effect
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quas reprehenderit obcaecati, veritatis facilis deserunt distinctio beatae temporibus, id delectus expedita, incidunt ullam quos debitis natus officiis ea nesciunt vel.
+           Clothing Store is a family-owned business that has been operating for over 20 years. We are dedicated to providing the best quality clothing and accessories for our customers. Our mission is to provide exceptional customer service and convenience to our customers. We are committed to providing the best quality products at affordable prices. We are proud to be a part of the community and look forward to serving you for many years to come. 
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 20 }} // Initial state for paragraph
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.5 }} // Delay for staggered effect
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolor consequuntur vero! Tenetur sit ducimus debitis dolorem voluptatem, aperiam expedita cum quasi commodi voluptatibus fugiat soluta, earum nostrum. Vel, dolorum?
-          </motion.p>
+           Here at Clothing Store, we believe that everyone deserves to look and feel their best. That's why we offer a wide range of clothing and
+           </motion.p>
           <b className='text-gray-800'>Our Mission</b>
           <motion.p
             initial={{ opacity: 0, y: 20 }} // Initial state for paragraph
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.6 }} // Delay for staggered effect
           >
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium consequuntur maiores dolore odio eaque numquam earum dolorum cumque molestiae, unde perferendis aperiam nisi maxime ut cum laudantium! Accusantium, similique aliquam?
-          </motion.p>
+            Our mission is to provide exceptional customer service and convenience to our customers. We are committed to providing the best quality products at affordable prices. We are proud to be a part of the community and look forward to serving you for many years to come.
+            </motion.p>
         </div>
       </motion.div>
 
@@ -79,7 +79,9 @@ const About = () => {
           transition={{ duration: 0.5, delay: 0.9 }} // Delay for staggered effect
         >
           <b>Quality Assurance:</b>
-          <p className='text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur accusamus quasi, adipisci hic consectetur recusandae voluptas perspiciatis iusto tempore ratione.</p>
+          <p className='text-gray-600'>
+            Qualuty is our top priority. We ensure that all our products are of the highest quality and meet the highest standards. We are committed to providing the best quality products at affordable prices.
+          </p>
         </motion.div>
         <motion.div
           className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'
@@ -88,7 +90,9 @@ const About = () => {
           transition={{ duration: 0.5, delay: 1.0 }} // Delay for staggered effect
         >
           <b>Convenience:</b>
-          <p className='text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur accusamus quasi, adipisci hic consectetur recusandae voluptas perspiciatis iusto tempore ratione.</p>
+          <p className='text-gray-600'>
+            we are committed to providing the best quality products at affordable prices. We are proud to be a part of the community and look forward to serving you for many years to come.  
+          </p>
         </motion.div>
         <motion.div
           className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'
@@ -97,7 +101,9 @@ const About = () => {
           transition={{ duration: 0.5, delay: 1.1 }} // Delay for staggered effect
         >
           <b>Exceptional Customer Service:</b>
-          <p className='text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur accusamus quasi, adipisci hic consectetur recusandae voluptas perspiciatis iusto tempore ratione.</p>
+          <p className='text-gray-600'>
+            We are committed to providing exceptional customer service to our customers. We are dedicated to providing the best quality products at affordable prices. We are proud to be a part of the community and look forward to serving you for many years to come.
+          </p>
         </motion.div>
       </motion.div>
 

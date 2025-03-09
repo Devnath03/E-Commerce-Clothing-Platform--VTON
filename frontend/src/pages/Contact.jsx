@@ -46,7 +46,11 @@ const Contact = () => {
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.5 }} // Delay for staggered effect
           >
-            54709 Willms Station <br /> Suite 350, Washington, USA
+            169/A Gonahena Kadawatha 11350.
+            <br /> Colombo
+            <br /> Western Province
+            <br /> Sri Lanka
+
           </motion.p>
           <motion.p
             className='text-gray-500'
@@ -54,7 +58,7 @@ const Contact = () => {
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.6 }} // Delay for staggered effect
           >
-            Tel: (415) 555-0132 <br /> Email: admin@forever.com
+            Tel: (+94) 77-451-5426 <br /> Email: clothing@gmail.com
           </motion.p>
           <motion.p
             className='font-semibold text-xl text-gray-600'
@@ -70,7 +74,7 @@ const Contact = () => {
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.8 }} // Delay for staggered effect
           >
-            Learn more about our teams and job openings.
+            Learn more about our teams and job openings. Get in touch subscribing the newsletter
           </motion.p>
           <motion.button
             className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'
