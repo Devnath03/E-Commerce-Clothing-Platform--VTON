@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. At saepe vero quas aliquam.
+                CLOTHING is a leading online store that offers a wide range of products. We are a one-stop shop for all your needs. Our products are of high quality and are available at affordable prices. We offer fast delivery and excellent customer service. Shop with us today and experience the difference.
             </p>
         </div>
 
@@ -27,7 +27,7 @@ const Footer = () => {
                 <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
                     <li>+94-774515426</li>
-                    <li>info@starlitglobal.com</li>
+                    <li>info@clothing.com</li>
                 </ul>
             </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ forever.com - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2025@ clothing.com - All Right Reserved.</p>
         </div>
 
     </div>

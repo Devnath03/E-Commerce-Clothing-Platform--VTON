@@ -48,7 +48,7 @@ const NewsletterBox = () => {
       <Toaster /> {/* Toaster container for rendering notifications */}
       <p className='text-2xl font-medium text-gray-800'>Subscribe now & get 20% off</p>
       <p className='text-gray-400 mt-3'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem corporis fuga molestiae obcaecati.
+        Get the latest news, updates and offers straight to your inbox.
       </p>
       <form
         onSubmit={onSubmitHandler}

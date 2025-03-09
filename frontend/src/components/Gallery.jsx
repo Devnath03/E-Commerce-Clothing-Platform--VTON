@@ -6,10 +6,10 @@ import { motion, AnimatePresence } from "framer-motion"; // For animations
 
 const Gallery = () => {
   const images = [
-    { src: assets.hero_img, title: "Image 1", description: "This is the first image in the gallery." },
-    { src: assets.hero_img2, title: "Image 2", description: "This is the second image in the gallery." },
-    { src: assets.hero_img, title: "Image 3", description: "This is the third image in the gallery." },
-    { src: assets.hero_img2, title: "Image 4", description: "This is the fourth image in the gallery." },
+    { src: assets.hero_img, title: "Features", description: "shopper the products feature colltection in our expertises." },
+    { src: assets.hero_img2, title: "Features", description: "Other feature colltection in our expertises" },
+    { src: assets.hero_img, title: "Features", description: "Review the gallry sections to more expertise" },
+    { src: assets.hero_img2, title: "Features", description: "Browse the colltection in our expertises." },
   ];
 
   const [selectedImage, setSelectedImage] = useState(null);
