@@ -46,7 +46,7 @@ const Contact = () => {
             animate={{ opacity: 1, y: 0 }} // Animate to visible
             transition={{ duration: 0.5, delay: 0.5 }} // Delay for staggered effect
           >
-            169/A Gonahena Kadawatha 11350.
+            705/45 Gonahena Kadawatha 11350.
             <br /> Colombo
             <br /> Western Province
             <br /> Sri Lanka
